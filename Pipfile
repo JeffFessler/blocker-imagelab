@@ -1,0 +1,49 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+# tests
+pytest = "*"
+pytest-cov = "*"
+scipy = ">=1.6"
+# notebooks
+ipykernel = "*"
+ipywidgets = "*"
+# formatting
+black = "*"
+isort = "*"
+flake8 = "*"
+flake8-black = "*"
+flake8-isort = "*"
+flake8-bugbear = "*"
+# docs
+sphinx = "*"
+sphinx-autodoc-typehints = "*"
+
+[packages]
+numpy = "*"
+matplotlib = "*"
+scipy = "*"
+tqdm = "*"
+pooch = "*"
+pillow = "*"
+toml = "*"
+pywavelets = "*"
+psutil = "*"
+scikit-image = "*"
+deprecation = "*"
+
+[requires]
+python_version = "3.8"
+
+[scripts]
+test = "pytest"
+fmt = "black imagelab tests"
+fmt2 = "isort imagelab tests"
+check = "flake8 imagelab tests"
+docs = "sphinx-build -M html 'docs/source' 'docs/build'"
+
+[pipenv]
+allow_prereleases = true  # for black

@@ -1,0 +1,24 @@
+stages:
+  - test
+
+test:
+    image: python:3.8
+    stage: test
+    before_script:
+    - apt-get update -q -y
+    - pip install .
+    - pip install pytest
+    - pip install pytest-cov
+    script:
+    - python --version
+    - pytest 
+
+lint:
+    image: python:3.8
+    stage: test
+    before_script:
+    - apt-get update -q -y
+    - pip install black flake8 flake8-black flake8-bugbear
+    script:
+    - python --version
+    - flake8 imagelab tests

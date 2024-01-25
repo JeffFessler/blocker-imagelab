@@ -1,0 +1,9 @@
+barbara.jpg 6e3ed23e50af200d1cf7ec0ca3bca1f41a388090dfea2a684101dc89266537f8 http://i.stack.imgur.com/Ips0H.jpg
+cameraman.tif bae785b3236037abe32914516e758ea108eac0a2f3430f3f4216574bbae6ea51 http://raw.githubusercontent.com/antimatter15/cameraman/master/cameraman.tif
+large_web.jpg 3a19c5dd8a927a9334bb1229a6d63711b1c0c767fb27e2286e7c84a3e2c2f5f4 https://hubblesite.org/uploads/image_file/image_attachment/23657/large_web.jpg
+goldhill.png 5abf85207ef06adcea2e836afbf9aef51271a149571f0e3264f98575f16f58b7 https://homepages.cae.wisc.edu/~ece533/images/goldhill.png
+monarch.png c2435a5e37c04658824d26124ab27c3943e7b95b0eeeb27effa6439f81ff5ca9 https://homepages.cae.wisc.edu/~ece533/images/monarch.png
+mountain.png 8ef7a615b147b575524636838998dc3136ffaf656cc5bd59efed6b47e729f577 https://homepages.cae.wisc.edu/~ece533/images/mountain.png
+sails.png 90dcb09310008b7b43ef382ee0e90f4444cb8377ceed3853d9811e46f6fbd5d2 https://homepages.cae.wisc.edu/~ece533/images/sails.png
+tulips.png 6f7fa671ce446f85c47fcda0ba9658f22b9824baf3c1abfae7051448665c37d1 https://homepages.cae.wisc.edu/~ece533/images/tulips.png
+cat.png f6ac3b964f1aa23f097f0aaeef538b09b942afb7b634a87036070c3b0a4767e4 https://homepages.cae.wisc.edu/~ece533/images/cat.png
