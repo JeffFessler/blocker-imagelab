@@ -57,4 +57,11 @@ The `-e` option is not necessary unless you plan to edit the files, but it makes
 
 Cameron Blocker <cameronjblocker@gmail.com>
 
-I would also like to acknowledge Jeff Fessler's irt toolbox and Hung Nien's thesis matlab code which inspired some of this work
+I would also like to acknowledge Jeff Fessler's irt toolbox
+and Hung Nien's thesis matlab code which inspired some of this work
+
+
+## Note
+
+Copied by JF on 2024-01-24 from
+https://gitlab.eecs.umich.edu/cblocker/imagelab
